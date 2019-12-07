@@ -1,0 +1,7 @@
+PC TO GIT UPLOAD:-
+
+
+git add pc  filename
+git commit -m"(Committed message)
+git pish-u orgin master
+git remove add orgin master(url)g
